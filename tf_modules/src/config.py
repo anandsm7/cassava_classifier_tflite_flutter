@@ -1,0 +1,11 @@
+TRAIN_PATH = "../input/train.csv"
+TRAIN_IMG_PATH = "../input/train_images"
+TEST_IMG_PATH = "../input/test_images"
+EPOCHS = 10
+BATCH_SIZE = 16
+NUM_CLASSES = 5
+LR = 1e-3
+TARGET_SIZE = 224
+SPLIT_RATIO = 0.2
+MODEL_PATH = '../models/'
+TB_LOGS = '../outputs/logs'

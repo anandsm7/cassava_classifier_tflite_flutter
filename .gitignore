@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VScode
+.vscode
+
+# ML specific
+tf_modules/input/*
+tf_modules/outputs/*
+tf_modules/models/*
