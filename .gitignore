@@ -132,6 +132,6 @@ dmypy.json
 .vscode
 
 # ML specific
-tf_modules/input/*
-tf_modules/outputs/*
-tf_modules/models/*
+tf_modules/input/
+tf_modules/outputs/
+tf_modules/models/
