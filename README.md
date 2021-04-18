@@ -43,7 +43,7 @@ flutter run
 ```
 
 ## DEMO
-![demo](https://imgur.com/VTHijU0)
+https://imgur.com/VTHijU0
 
 App is just for education purpose 
 * image credit: https://www.shutterstock.com/
