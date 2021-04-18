@@ -44,7 +44,7 @@ flutter run
 
 ## DEMO
 
-![image](https://doc-0o-28-docs.googleusercontent.com/docs/securesc/am7a656j707m38lfa894isln89d2i7t4/gua3hco4i7vnsebsn8dic41rncvgsb2p/1618759800000/04704086399943958801/01375537758145161981/1uAFrjzr8SfWB6B1G4MdBqVi8VurFxZyw?e=view&authuser=0&nonce=v7ffvesaaejjg&user=01375537758145161981&hash=qkcqrg3m551bcm757ujvn629157rklq4)
+[Imgur](https://i.imgur.com/VTHijU0.gifv)
 
 App is just for education purpose 
 * image credit: https://www.shutterstock.com/
