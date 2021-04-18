@@ -45,5 +45,8 @@ flutter run
 ## DEMO
 https://imgur.com/VTHijU0
 
+### Dataset
+https://www.kaggle.com/c/cassava-leaf-disease-classification
+
 App is just for education purpose 
 * image credit: https://www.shutterstock.com/
